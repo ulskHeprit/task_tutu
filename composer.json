@@ -1,0 +1,7 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^6.5",
+        "vlucas/phpdotenv": "^4.1",
+        "rinvex/countries": "^6.1"
+    }
+}
